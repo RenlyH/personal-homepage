@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Yunjia Zhang"
+title                    : "Xinhai Hou"
 title_separator          : "-"
-name                     : &name "Yunjia Zhang"
+name                     : &name "Xinhai Hou"
 description              : &description ""
-url                      : "https://yjcyber.com" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://renlyh.github.io/personal-homepage/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "/" # the subpath of your site, e.g. "/blog"
-repository               : "https://yjcyber.com"
+repository               : "https://renlyh.github.io/personal-homepage/"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,13 +80,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Yunjia ZHANG"
+  name             : "Xinhai Hou"
   avatar           : "profile.png"
-  bio              : "Ph.D. student at University of Wisconsin-Madison"
-  location         : "Madison, WI, US"
+  bio              : "Ph.D. Candidate at University of Michigan, Ann Arbor"
+  location         : "Ann Arbor, MI, US"
   employer         :
   googlescholar    : 
-  email            : "yunjia@cs.wisc.edu"
+  email            : "xinhaih@umich.edu"
   uri              :
   bitbucket        :
   codepen          :
