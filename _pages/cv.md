@@ -10,22 +10,19 @@ redirect_from:
 {% include base_path %}
 
 
-University of Wisconsin-Madison
+University of Michigan, Ann Arbor
 ---------------
-* Ph.D in Computer Science, Aug.2019 ~ TBD
-* Research interest: data profiling, diffusion networks, data mining, database
-* [Database Group](https://database.cs.wisc.edu)
-* Advisor: Prof. [Theodoros (Theo) Rekatsinas](http://pages.cs.wisc.edu/~thodrek/)
+* Ph.D in Computational Medicine and Bioinformatics, Sep. 2021 ~ TBD
+* Research interest: Computer vision, representation learning and AI in medicine.  
+* [Machine Learning in NeuroSurgery](https://mling.org)
+* Advisor: Prof. [Todd Hollon](https://medicine.umich.edu/dept/dcmb/todd-hollon-md)
 
 
 
-Wuhan University
+The Chinese University of Hong Kong, Shenzhen
 ---------------
-* B.Eng. in Computer Science and Technology, Sep.2015 ~ Jun.2019
-* Advisor: Prof. Hao Huang
-* Overall GPA: 3.92/4.00
-* Major GPA: 3.97/4.00
-* Rank: 1/164
+* B.S. in Statistical Science, Sep.2016 ~ Jun.2020
+* First Class Honor
 
 
 <!-- Skills
